@@ -1,0 +1,29 @@
+[
+	{
+		"id": 401101039,
+		"uid": 0,
+		"money": 84.0001,
+		"level": 1,
+		"exp": 0,
+		"next_exp": 10,
+		"donate": "Администратор",
+		"bonus": true,
+		"ban": false,
+		"tag": "Андрей",
+		"firstmsg": false,
+		"balance": null
+	},
+	{
+		"id": 614187211,
+		"uid": 1,
+		"money": 35,
+		"level": 1,
+		"exp": 0,
+		"next_exp": 10,
+		"donate": "Обычный пользователь",
+		"bonus": true,
+		"ban": false,
+		"tag": "Влад",
+		"firstmsg": false
+	}
+]
